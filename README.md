@@ -1,6 +1,6 @@
 # Speed Prediction
 
-A repository of how to generate Pseudo-LiDAR from monocular depth information.
+A repository of how to estimate the object speed from real-world coordinate.
 
 ## Getting Started
 
